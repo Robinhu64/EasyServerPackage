@@ -1,0 +1,12 @@
+{
+  "name": "com.robin.servercommunication",
+  "version": "1.0.0",
+  "displayName": "Certificatless Server",
+  "description": "This package will create the server",
+  "unity": "2021.3",
+  "unityRelease": "0b5",
+  "author": {
+    "name": "Huyghe Robin",
+    "email": "robin.huyghe@student.kuleuven.be"
+  }
+}
