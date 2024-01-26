@@ -1,5 +1,0 @@
-{
-    "name": "CommunicationServerRuntime",
-    "references": [ "Utility" ],
-    "includePlatforms": ["Android", "iOS"]
-}

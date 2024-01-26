@@ -1,5 +1,0 @@
-{
-    "name": "CommunicationServerEditor",
-    "references": [ "Utility" ],
-    "includePlatforms": ["Android", "iOS"]
-}
